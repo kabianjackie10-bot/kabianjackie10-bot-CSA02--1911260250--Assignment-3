@@ -1,0 +1,1 @@
+Valid=11 Invalid=3\nCandidate 1: 3\nCandidate 2: 3\nCandidate 3: 3\nCandidate 4: 2\nTie for winner
