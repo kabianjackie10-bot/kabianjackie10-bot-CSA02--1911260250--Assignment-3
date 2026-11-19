@@ -1,0 +1,1 @@
+Bubble: 1 2 3 7 8 9 | comparisons=15 moves/swaps=9\nSelection: 1 2 3 7 8 9 | comparisons=15 moves/swaps=5\nInsertion: 1 2 3 7 8 9 | comparisons=12 moves/swaps=9\n
