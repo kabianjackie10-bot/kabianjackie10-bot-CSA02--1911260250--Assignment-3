@@ -1,0 +1,7 @@
+Sorted names:
+Anu
+Arun
+Bala
+Kabilan
+Zara
+Search Bala -> 2\n
