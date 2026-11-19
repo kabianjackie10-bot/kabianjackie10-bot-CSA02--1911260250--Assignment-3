@@ -1,0 +1,1 @@
+District 1 total=100\nDistrict 2 total=120\nDistrict 3 total=89\nMonth 1 average=10.00\nMonth 2 average=21.00\nMonth 3 average=31.00\nMonth 4 average=41.00\nMaximum=45 at row 2 column 4\n
